@@ -1,0 +1,60 @@
+*{
+  box-sizing: border-box;
+}
+
+body{
+  background-color: black;
+}
+header{
+  width: 100%;
+  height: 100px;
+  background-color: black;
+}
+
+header h1{
+font-size: 50px;
+color: aqua;
+margin-left: 30%;
+}
+
+nav{
+  width: 100%;
+  height: 50px;
+  background-color: grey;
+}
+
+nav li{
+  float: left;
+  padding-right: 10px;
+  list-style: none;
+}
+#navWord{
+  color: pink;
+}
+h2{
+  color: white;
+}
+li{
+  color: white;
+}
+
+.top5{
+  padding-top: 50px;
+}
+.boring{
+  list-style-type: square;
+}
+
+footer h3{
+  color: white;
+  margin-left: 35%;
+  font-size: 30px;
+}
+
+footer li{
+  list-style: none;
+  float: left;
+}
+footer li img{
+  height: 100px;
+}
