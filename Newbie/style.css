@@ -50,11 +50,16 @@ footer h3{
   margin-left: 35%;
   font-size: 30px;
 }
-
-footer li{
+.fun{
+  color: pink;
+}
+.pics li{
   list-style: none;
   float: left;
 }
-footer li img{
+.pics li img{
   height: 100px;
+  margin-right: 10px;
+  border: 2px dashed white;
+  border-radius: 5px;
 }
